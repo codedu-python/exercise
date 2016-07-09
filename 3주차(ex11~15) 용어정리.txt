@@ -1,0 +1,11 @@
+입력
+프롬프트
+매개변수
+풀기(unpack)
+실행인자(argument)
+import
+argv = '실행인자 변수(argument variable)'
+모듈
+라이브러리
+하드 코딩(hard code)
+파일 객체(file object)
